@@ -8,3 +8,6 @@ C:\Users\Chad\Desktop\FlightProject\FlightProject\obj\Debug\FlightProject.Proper
 C:\Users\Chad\Desktop\FlightProject\FlightProject\obj\Debug\FlightProject.csproj.GenerateResource.Cache
 C:\Users\Chad\Desktop\FlightProject\FlightProject\obj\Debug\FlightProject.exe
 C:\Users\Chad\Desktop\FlightProject\FlightProject\obj\Debug\FlightProject.pdb
+C:\Users\Chad\Desktop\gitProject\FlightProject\FlightProject\bin\Debug\FlightProject.exe.config
+C:\Users\Chad\Desktop\gitProject\FlightProject\FlightProject\obj\Debug\FlightProject.exe
+C:\Users\Chad\Desktop\gitProject\FlightProject\FlightProject\obj\Debug\FlightProject.pdb
