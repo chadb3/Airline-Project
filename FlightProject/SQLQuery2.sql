@@ -1,0 +1,1 @@
+﻿select  distinct(airline) from flights
