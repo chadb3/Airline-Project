@@ -20,3 +20,10 @@ C:\Users\chadb3\Desktop\gitCISdatabase\FlightProject\FlightProject\obj\Debug\Fli
 C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\bin\Debug\FlightProject.exe.config
 C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\obj\Debug\FlightProject.exe
 C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\obj\Debug\FlightProject.pdb
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\bin\Debug\FlightDB2.mdf
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\bin\Debug\FlightDB2_log.ldf
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\bin\Debug\FlightProject.exe
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\bin\Debug\FlightProject.pdb
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\obj\Debug\FlightProject.csprojResolveAssemblyReference.cache
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\obj\Debug\FlightProject.Properties.Resources.resources
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\obj\Debug\FlightProject.csproj.GenerateResource.Cache
