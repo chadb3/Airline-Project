@@ -1,0 +1,1 @@
+﻿select country, count(country) from airport group by country

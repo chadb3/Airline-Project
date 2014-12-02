@@ -17,3 +17,6 @@ C:\Users\chadb3\Desktop\GitRepTest\FlightProject\FlightProject\obj\Debug\FlightP
 C:\Users\chadb3\Desktop\gitCISdatabase\FlightProject\FlightProject\bin\Debug\FlightProject.exe.config
 C:\Users\chadb3\Desktop\gitCISdatabase\FlightProject\FlightProject\obj\Debug\FlightProject.exe
 C:\Users\chadb3\Desktop\gitCISdatabase\FlightProject\FlightProject\obj\Debug\FlightProject.pdb
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\bin\Debug\FlightProject.exe.config
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\obj\Debug\FlightProject.exe
+C:\Users\chadb3\Desktop\gitProj\FlightProject\FlightProject\obj\Debug\FlightProject.pdb
