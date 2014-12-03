@@ -1,0 +1,1 @@
+﻿select distinct(departure), airport.airport_name from flights LEFT JOIN airport On airport.airport_id=flights.departure
