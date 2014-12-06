@@ -1,0 +1,1 @@
+﻿select * from airline where airline_code='MH'
